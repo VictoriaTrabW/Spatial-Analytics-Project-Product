@@ -1,3 +1,5 @@
 sf
 dplyr
 ggplot2
+leaflet
+htmlwidgets
